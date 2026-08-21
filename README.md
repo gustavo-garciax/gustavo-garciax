@@ -50,7 +50,7 @@ Meu objetivo é evoluir constantemente na área de tecnologia, desenvolver proje
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,insomnia,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
